@@ -1,3 +1,3 @@
 Hi!
 I am Jay Aggarwal, an aspiring scholar!
-I can code a bit of Scratch, HTML, Python(learning Pygame), and JavaScript!
+I am learning Java in coding class currently, and HTML in websites and certifications!
